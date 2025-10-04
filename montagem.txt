@@ -1,0 +1,4 @@
+vcc=azul
+gnd=rouxo
+d0=laranja
+a0=amarelo
